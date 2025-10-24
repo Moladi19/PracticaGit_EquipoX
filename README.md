@@ -1,3 +1,3 @@
-Miembros del proyecto 
+Miembros del proyecto :
   Izam Molano Diaz
   
