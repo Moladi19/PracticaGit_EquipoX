@@ -1,4 +1,4 @@
 Miembros del proyecto :
-  Izam Molano Diaz
-  Fernando Gonzalez
+  Izam Molano Diaz,
+  Fernando Gonzalez,
   Betania
